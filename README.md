@@ -29,6 +29,7 @@ I work as a DevOps engineer, practicing programming in Python, Bash, JavaScript 
 <a href="#"><img align="left" title="Node.js" alt="Node.js" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 <a href="#"><img align="left" title="React" alt="React" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" /></a>
 <br />
+<br />
 <a href="#"><img align="left" title="Bash" alt="Bash" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/bash.svg" /></a>
 <a href="#"><img align="left" title="C" alt="C" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/c.svg" /></a>
 <a href="#"><img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/docker.svg" /></a>
