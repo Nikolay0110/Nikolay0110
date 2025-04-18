@@ -28,6 +28,7 @@ I work as a DevOps engineer, practicing programming in Python, Bash, JavaScript 
 <a href="#"><img align="left" title="Bash" alt="Bash" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/bash.svg" /></a>
 <a href="#"><img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/docker.svg" /></a>
 <a href="#"><img align="left" title="Grafana" alt="Grafana" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/grafana.svg" /></a>
+<a href="#"><img align="left" title="Prometheus" alt="Prometheus" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.com/i/prometheus.svg" /></a>
 <a href="#"><img align="left" title="Linux" alt="Linux" width="30px" style="padding-right:10px; pointer-events: none;" src="https://devicons.railway.app/i/tux.svg" /></a>
 <a href="#"><img align="left" title="Ansible" alt="Ansible.js" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ansible/ansible-original.svg" /></a>
 <a href="#"><img align="left" title="SSH" alt="SSH" width="30px" style="padding-right:10px; pointer-events: none;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original-wordmark.svg" /></a>
