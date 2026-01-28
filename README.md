@@ -7,7 +7,7 @@
 ***
 
 ### 👨‍💻 About Me:
-I work as a DevOps engineer, practicing programming in Python, Bash, JavaScript and actively learning C.  I started my journey into the world of technology in 2021. Since then I have been actively studying UNIX system administration as well as automation and scaling technologies such as Ansible, Docker.
+I work as a DevOps engineer, practicing programming in Python, Bash, JavaScript.  I started my journey into the world of technology in 2021. Since then I have been actively studying UNIX system administration as well as automation and scaling technologies such as Ansible, Docker, Kubernetes and moonitoring with Zabbix, Grafana, Promerheus, VictoriaMetrics.
 
 ***
 ### 🛠 Languages and Tools:
